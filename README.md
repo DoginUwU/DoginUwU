@@ -18,7 +18,7 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
   <img src="https://github-readme-stats.vercel.app/api?username=doginuwu&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
 </p>
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id) 
+![visitors](https://visitor-badge.glitch.me/badge?page_id=doginuwu) 
 
 <!--START_SECTION:waka-->
 ```text
