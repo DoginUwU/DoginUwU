@@ -6,7 +6,7 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 
 **Connect with me:** <br/><br/>
 [<img alt="LinkedIn" width="80" src="https://www.tmf-group.com/-/media/images/logos/case-study-logos/linkedin.png" />](https://www.linkedin.com/in/luiz-gotardo)
-[<img alt="Medium" width="25" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Medium_logo_Monogram.svg/1200px-Medium_logo_Monogram.svg.png" />](https://www.linkedin.com/in/luiz-gotardo)<br/>
+[<img alt="Medium" width="25" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Medium_logo_Monogram.svg/1200px-Medium_logo_Monogram.svg.png" />](https://medium.com/@doginuwu)<br/>
 
 **Languages and Tools:**  
 
