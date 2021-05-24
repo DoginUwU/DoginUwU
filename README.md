@@ -4,6 +4,10 @@ Hi, I'm [Luiz Eduardo](https://gotardo.vercel.app/), a passionate self-taught Fr
 
 I am also an open-source enthusiast and maintainer. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.
 
+**Connect with me:** <br/><br/>
+[<img alt="LinkedIn" width="80" src="https://www.tmf-group.com/-/media/images/logos/case-study-logos/linkedin.png" />](https://www.linkedin.com/in/luiz-gotardo)
+[<img alt="Medium" width="25" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Medium_logo_Monogram.svg/1200px-Medium_logo_Monogram.svg.png" />](https://www.linkedin.com/in/luiz-gotardo)<br/>
+
 **Languages and Tools:**  
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
