@@ -2,8 +2,6 @@
 
 Hi, I'm [Luiz Eduardo](https://gotardo.vercel.app/), a passionate self-taught Front-end web developer and a freelance from Brazil. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
 
-I am also an open-source enthusiast and maintainer. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.
-
 **Connect with me:** <br/><br/>
 [<img alt="LinkedIn" width="80" src="https://www.tmf-group.com/-/media/images/logos/case-study-logos/linkedin.png" />](https://www.linkedin.com/in/luiz-gotardo)
 [<img alt="Medium" width="25" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Medium_logo_Monogram.svg/1200px-Medium_logo_Monogram.svg.png" />](https://medium.com/@doginuwu)<br/>
