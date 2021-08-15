@@ -24,10 +24,9 @@ Hi, I'm [Luiz Eduardo](https://gotardo.vercel.app/), a passionate self-taught Fr
 
 <!--START_SECTION:waka-->
 ```text
-TypeScript   8 hrs 31 mins   ████████████████████▓░░░░   82.71 % 
-Other        48 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.81 % 
-JSON         31 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.14 % 
-JavaScript   22 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.67 % 
-C#           3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.63 % 
+TypeScript   6 hrs 23 mins   ███████████████████▓░░░░░   78.81 % 
+Other        48 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.93 % 
+JSON         31 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.54 % 
+JavaScript   22 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.67 % 
 ```
 <!--END_SECTION:waka-->
