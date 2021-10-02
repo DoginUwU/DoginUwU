@@ -20,7 +20,9 @@ Hi, I'm [Luiz Eduardo](https://gotardo.vercel.app/), a passionate self-taught Fr
 
 📈 My GitHub Stats
 <p align="center"> 
-  <img src="https://github-readme-stats.vercel.app/api?username=doginuwu&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
+  <img src="https://github-readme-stats.vercel.app/api?username=doginuwu&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true" alt="doginuwu" />
+    &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=doginuwu&layout=compact&langs_count=7&theme=midnight-purple" alt="doginuwu" />
 </p>
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=doginuwu) 
