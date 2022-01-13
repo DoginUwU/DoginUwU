@@ -6,8 +6,9 @@ Dogs ♡#0172
 Hi, I'm [Luiz Eduardo](https://gotardo.vercel.app/), a passionate self-taught Front-end web developer and a freelance from Brazil. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
 
 **Connect with me:** <br/><br/>
-[<img alt="LinkedIn" width="80" src="https://www.tmf-group.com/-/media/images/logos/case-study-logos/linkedin.png" />](https://www.linkedin.com/in/luiz-gotardo)
-[<img alt="Medium" width="25" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Medium_logo_Monogram.svg/1200px-Medium_logo_Monogram.svg.png" />](https://medium.com/@doginuwu)<br/>
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://gotardo.vercel.app/)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luiz-gotardo)
+[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/DoginUwU)
 
 **Languages and Tools:**  
 
