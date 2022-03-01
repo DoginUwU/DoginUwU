@@ -4,7 +4,7 @@
 
 I'm Luiz Eduardo, a passionate self-taught Front-end web developer and a freelance from Brazil. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
 
-<div align="center">
+<div align="start">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=doginuwu&layout=compact&langs_count=7" alt="doginuwu" />
 </div>
   
@@ -31,7 +31,7 @@ I'm Luiz Eduardo, a passionate self-taught Front-end web developer and a freelan
 </p>
 <br />
 
-<div align="center">
+<div align="start">
   
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=em3n90e2j6usercid5v1oq0o5&cover_image=true&theme=default&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=em3n90e2j6usercid5v1oq0o5&redirect=true)
   
