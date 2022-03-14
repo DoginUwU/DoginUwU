@@ -5,7 +5,7 @@
 I'm Luiz Eduardo, a passionate self-taught Front-end web developer and a freelance from Brazil. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
 
 <div align="start">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=doginuwu&layout=compact&langs_count=7&theme=dracula" alt="doginuwu" />
+<img alt="DoginUwU streak stats" src="https://github-readme-streak-stats.herokuapp.com/?user=DoginUwU&theme=midnight-purple#version3" />
 </div>
   
 <h3>Things I code with</h3>
@@ -48,3 +48,5 @@ Other        4 mins          🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨�
 ```
 
 <!--END_SECTION:waka-->
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=doginuwu&layout=compact&langs_count=7&theme=dracula" alt="doginuwu" />
