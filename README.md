@@ -51,5 +51,3 @@ Other        1 min           🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨�
 ```
 
 <!--END_SECTION:waka-->
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=doginuwu&layout=compact&langs_count=7&theme=dracula" alt="doginuwu" />
