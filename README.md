@@ -32,11 +32,11 @@ I'm Luiz Eduardo, a passionate self-taught Front-end web developer and a freelan
 </p>
 <br />
 
-<div align="start">
+<!--<div align="start">
   
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=em3n90e2j6usercid5v1oq0o5&cover_image=true&theme=default&bar_color=b65cff&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=em3n90e2j6usercid5v1oq0o5&redirect=true)
   
-</div>
+</div>-->
   
 <!--START_SECTION:waka-->
 
