@@ -4,10 +4,12 @@
 
 I'm Luiz Eduardo, a passionate self-taught Front-end web developer and a freelance from Brazil. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
 
-<h3>Things I code with</h3>
-<a href="https://gotardo.vercel.app" target="_blank">
-  <img src="https://skillicons.dev/icons?i=git,vscode,react,html,css,js,ts,bootstrap,bash,linux,next,powershell,unity,vite,prisma,netlify,mongodb,sass,tailwind,heroku,github,firebase,figma,aws,mui,webpack,jest,discord,mysql,docker" />
-</a>
+<p>
+  <h3>Things I code with</h3>
+  <a href="https://gotardo.vercel.app" target="_blank">
+    <img src="https://skillicons.dev/icons?i=git,vscode,react,html,css,js,ts,bootstrap,bash,linux,next,powershell,unity,vite,prisma,netlify,mongodb,sass,tailwind,heroku,github,firebase,figma,aws,mui,webpack,jest,discord,mysql,docker" />
+  </a>
+</p>
 
 <div align="start">
 <img alt="DoginUwU streak stats" src="https://github-readme-streak-stats.herokuapp.com/?user=DoginUwU&theme=react&hide_border=true&background=060A0CD0#version3" />
