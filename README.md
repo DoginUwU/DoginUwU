@@ -1,7 +1,5 @@
 ![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=Dogs%20&fontAlignY=40&color=gradient)
 
-![:name](https://count.getloli.com/get/@:DoginUwU)
-
 I'm Luiz Eduardo, a passionate self-taught Front-end web developer and a freelance from Brazil. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
 
 <p>
@@ -38,3 +36,5 @@ Other        1 min           🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨�
 ```
 
 <!--END_SECTION:waka-->
+
+![:name](https://count.getloli.com/get/@:DoginUwU)
