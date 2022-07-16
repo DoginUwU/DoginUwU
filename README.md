@@ -30,10 +30,10 @@ I'm Luiz Eduardo, a passionate self-taught Front-end web developer and a freelan
 <!--START_SECTION:waka-->
 
 ```text
-Total Time: 5 hrs 50 mins
+Total Time: 8 hrs 59 mins
 
-TypeScript   5 hrs 44 mins   🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟨   95.05 %
-Other        12 mins         🟩🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨   03.35 %
+TypeScript   8 hrs 35 mins   🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟨🟨   91.79 %
+Other        22 mins         🟩🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨   03.99 %
 ```
 
 <!--END_SECTION:waka-->
