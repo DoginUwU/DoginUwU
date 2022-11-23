@@ -21,7 +21,7 @@ I'm Luiz Eduardo, a passionate self-taught Front-end web developer and a freelan
   
 </div>-->
 
-![:name](https://count.getloli.com/get/@:DoginUwU)
+![:name](https://count.getloli.com/get/@:DoginUwU?theme=rule34)
   
 <!--START_SECTION:waka-->
 
