@@ -5,7 +5,7 @@ I'm Luiz Eduardo, a passionate self-taught Front-end web developer and a freelan
 <p>
   <h3>Things I code with</h3>
   <a href="https://gotardo.vercel.app" target="_blank">
-    <img src="https://skillicons.dev/icons?i=git,vscode,react,html,css,js,ts,bootstrap,bash,linux,next,powershell,unity,vite,prisma,netlify,mongodb,sass,tailwind,heroku,github,firebase,figma,aws,mui,webpack,jest,discord,mysql,docker" />
+    <img src="https://skillicons.dev/icons?i=git,html,css,js,ts,bootstrap,prisma,sass,heroku,jest,docker,discord,vscode,react,bash,linux,next,powershell,unity,vite,netlify,mongodb,tailwind,github,firebase,figma,aws,mui,webpack,mysql" />
   </a>
 </p>
 
