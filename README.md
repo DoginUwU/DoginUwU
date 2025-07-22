@@ -24,9 +24,9 @@ I'm Luiz Eduardo, a self-taught Full-Stack Web Developer from Brazil with a deep
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 3,722 hrs 50 mins
+Total Time: 3,723 hrs 8 mins
 
-TypeScript                         1,734 hrs 28 mins🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨   46.02 %
+TypeScript                         1,734 hrs 42 mins🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨   46.02 %
 Vue.js                             1,061 hrs 15 mins🟩🟩🟩🟩🟩🟩🟩🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨   28.16 %
 JavaScript                         187 hrs 31 mins 🟩🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨   04.98 %
 JSON                               156 hrs 59 mins 🟩🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨   04.17 %
