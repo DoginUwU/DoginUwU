@@ -1,4 +1,4 @@
-![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=Dogs%20&fontAlignY=40&color=gradient)
+![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=Luiz%20&fontAlignY=40&color=gradient)
 
 I'm Luiz Eduardo, a self-taught Full-Stack Web Developer from Brazil with a deep passion for turning ideas into reality through intuitive and elegant interfaces. I’m driven by the entire process of building software — from crafting smooth user experiences to designing robust architectures and writing clean, maintainable code.
 
